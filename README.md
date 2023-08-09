@@ -1,10 +1,10 @@
 Olá! Eu sou o Vinícius 👋
 
-💼 - Atualmente procurando emprego
+💼 - Atualmente procurando oportunidades como dev;
 
-👨‍💻 - Estudando Python e Javascript
+👨‍💻 - Estudando Python e Javascript;
 
-🎓 - Bacharelado em Ciências da Computação
+🎓 - Bacharelado em Ciências da Computação;
 
 📞 - Sinta-se a vontade para entrar em contato comigo pelo e-mail: viniciusgadioli2@gmail.com
 
