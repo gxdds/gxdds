@@ -2,7 +2,7 @@ Olá! Eu sou o Vinícius 👋
 
 💼 - Atualmente procurando oportunidades como dev;
 
-👨‍💻 - Estudando Python;
+👨‍💻 - Estudando Python e Node;
 
 🎓 - Bacharelado em Ciências da Computação;
 
