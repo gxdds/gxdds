@@ -10,9 +10,9 @@ Olá! Eu sou o Vinícius 👋
 
   ##
 Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxdds&hide=contribs,prs,issues_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxdds&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxdds&hide=contribs,prs,issues_icons=true&theme=tokyonight)
+
 
   ##
 Linguagens e Frameworks
