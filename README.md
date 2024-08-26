@@ -1,6 +1,7 @@
   ##
 Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxdds&layout=compact&theme=tokyonight)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gxdds&show_icons=true&theme=tokyonight)
         
      
