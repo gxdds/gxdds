@@ -1,7 +1,7 @@
   ##
 Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gxdds&show_icons=true&theme=tokyonight)
         
      
 </div>
